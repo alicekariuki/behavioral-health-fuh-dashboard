@@ -1,0 +1,61 @@
+provider_id,provider_name,provider_type,is_behavioral_health,region
+PRV0001,Alex Brown,Licensed Clinical Social Worker,Y,Prince George's
+PRV0002,Morgan Smith,Psychiatric Nurse Practitioner,Y,Baltimore County
+PRV0003,Alex Smith,Psychologist,Y,Prince George's
+PRV0004,Alex Johnson,Psychiatric Nurse Practitioner,Y,Baltimore County
+PRV0005,Hayden Brown,Psychologist,Y,Montgomery
+PRV0006,Riley Martin,Licensed Professional Counselor,Y,Frederick
+PRV0007,Jamie Williams,Psychiatric Nurse Practitioner,Y,Montgomery
+PRV0008,Morgan Davis,Psychiatrist,Y,Frederick
+PRV0009,Jordan Lee,Licensed Clinical Social Worker,Y,Baltimore County
+PRV0010,Skyler Smith,Psychiatrist,Y,Baltimore County
+PRV0011,Rowan Johnson,Psychiatric Nurse Practitioner,Y,Montgomery
+PRV0012,Avery Lopez,Psychiatrist,Y,Montgomery
+PRV0013,Morgan Otieno,Licensed Professional Counselor,Y,Frederick
+PRV0014,Rowan Patel,Psychologist,Y,Frederick
+PRV0015,Quinn Smith,Psychologist,Y,Baltimore County
+PRV0016,Avery Patel,Licensed Clinical Social Worker,Y,Howard
+PRV0017,Avery Williams,Psychologist,Y,Montgomery
+PRV0018,Jordan Williams,Psychiatric Nurse Practitioner,Y,Howard
+PRV0019,Jamie Williams,Psychiatric Nurse Practitioner,Y,Prince George's
+PRV0020,Skyler Lee,Licensed Clinical Social Worker,Y,Prince George's
+PRV0021,Avery Brown,Psychiatric Nurse Practitioner,Y,Baltimore County
+PRV0022,Skyler Davis,Psychologist,Y,Prince George's
+PRV0023,Casey Clark,Primary Care Physician,N,Montgomery
+PRV0024,Morgan Garcia,Licensed Professional Counselor,Y,Prince George's
+PRV0025,Emerson Smith,Licensed Professional Counselor,Y,Howard
+PRV0026,Hayden Brown,Psychologist,Y,Baltimore County
+PRV0027,Alex Nguyen,Licensed Professional Counselor,Y,Baltimore County
+PRV0028,Reese Nguyen,Licensed Professional Counselor,Y,Frederick
+PRV0029,Hayden Mwangi,Psychologist,Y,Frederick
+PRV0030,Riley Nguyen,Primary Care Physician,N,Frederick
+PRV0031,Jamie Garcia,Licensed Professional Counselor,Y,Frederick
+PRV0032,Alex Williams,Licensed Professional Counselor,Y,Howard
+PRV0033,Rowan Lopez,Psychiatrist,Y,Prince George's
+PRV0034,Taylor Smith,Psychiatrist,Y,Howard
+PRV0035,Casey Garcia,Licensed Professional Counselor,Y,Howard
+PRV0036,Riley Brown,Primary Care Physician,N,Baltimore County
+PRV0037,Emerson Johnson,Primary Care Physician,N,Baltimore County
+PRV0038,Jamie Lopez,Licensed Professional Counselor,Y,Howard
+PRV0039,Rowan Lee,Primary Care Physician,N,Baltimore County
+PRV0040,Avery Kim,Psychologist,Y,Montgomery
+PRV0041,Avery Kim,Psychologist,Y,Montgomery
+PRV0042,Jordan Kim,Psychiatrist,Y,Montgomery
+PRV0043,Reese Smith,Primary Care Physician,N,Baltimore County
+PRV0044,Parker Johnson,Psychiatric Nurse Practitioner,Y,Baltimore County
+PRV0045,Parker Kim,Psychiatrist,Y,Howard
+PRV0046,Jamie Nguyen,Licensed Professional Counselor,Y,Montgomery
+PRV0047,Rowan Martin,Licensed Clinical Social Worker,Y,Howard
+PRV0048,Jordan Nguyen,Licensed Clinical Social Worker,Y,Montgomery
+PRV0049,Reese Nguyen,Psychologist,Y,Prince George's
+PRV0050,Hayden Garcia,Psychiatrist,Y,Howard
+PRV0051,Hayden Kim,Psychiatrist,Y,Montgomery
+PRV0052,Morgan Okafor,Psychologist,Y,Baltimore County
+PRV0053,Taylor Kim,Licensed Professional Counselor,Y,Prince George's
+PRV0054,Parker Johnson,Psychologist,Y,Howard
+PRV0055,Riley Otieno,Primary Care Physician,N,Montgomery
+PRV0056,Quinn Lee,Primary Care Physician,N,Frederick
+PRV0057,Parker Garcia,Psychologist,Y,Prince George's
+PRV0058,Jordan Okafor,Psychiatric Nurse Practitioner,Y,Frederick
+PRV0059,Parker Patel,Psychiatrist,Y,Montgomery
+PRV0060,Taylor Patel,Primary Care Physician,N,Montgomery
